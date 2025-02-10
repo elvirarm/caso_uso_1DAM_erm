@@ -6,7 +6,7 @@
 
 Crea el diagrama de uso haciendo uso de PlantUML, representando los actores y casos de uso que identifiques en los requisitos.
 
-![Diagrama de casos de uso en PlantUML](Descargas/Diagrama_Uso.png)
+![Diagrama de casos de uso en PlantUML](Diagrama_Uso.png)
 
 
 
